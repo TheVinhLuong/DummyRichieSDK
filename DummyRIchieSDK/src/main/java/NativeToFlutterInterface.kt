@@ -1,0 +1,3 @@
+interface NativeToFlutterInterface {
+    fun onLogout()
+}
